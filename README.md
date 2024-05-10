@@ -19,18 +19,27 @@ En esta carpeta, exploramos la inserción de imágenes e iconos con la etiqueta 
 ### *[5_etiqueta_a](/Clase_10´1/5_etiqueta_a/etiqueta_a.html)*
 En esta carpeta, exploramos el uso de la etiqueta `<a>` en HTML para crear enlaces a páginas web, recursos externos o elementos dentro del mismo sitio. La etiqueta `<a>` es fundamental en la construcción de la estructura de navegación de un sitio web, permitiendo a los usuarios acceder a diferentes partes del contenido de manera intuitiva. 
 
+# Tipografia: 
+### *[Victor mono](https://rubjo.github.io/victor-mono/)*
+
+# Extecion VisBug
+### *[VisBug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en)*
+
+# Canal de YouTube
+### *[jesus-espitia77](https://www.youtube.com/channel/UCpYrPl0vrtUGDo8Dhtm18Jw)*
+
 =========================================================
 ### Videos de YouTube que son útiles para el aprendizaje de HTML y CSS.
-*Estos videos son del canal de YouTube Soy Dalto, en lo personal es una persona con altos conocimientos sobre el mundo de la programación, entre otras cosas. Tiene una forma de enseñar diferente. Al mostrar y sugerir este video no significa que debes quedarte solo con esto, solo es algo por lo que puedes empezar a experimentar y aprender.*
+*Estos videos son del canal de YouTube Soy Dalto, en lo personal es una persona con altos conocimientos sobre el mundo de la programación, entre otras cosas. Tiene una forma de enseñar diferente. Al mostrar y sugerir estos videos no significa que debes quedarte solo con esto, solo es algo que pueden utilizar para experimentar y aprender.*
 
 *[Curso de HTML5 desde CERO (Completo)](https://youtu.be/kN1XP-Bef7w)*
 Duración: `02:24:36 H`
 
-*[Curso de CSS desde CERO (Completo)](https://youtu.be/OWKXEJN67FE)*
+*[Curso de CSS3 desde CERO (Completo)](https://youtu.be/OWKXEJN67FE)*
 Duración: `09:46:55 H`
 
 
-*[Curso de HTML y CSS desde CERO (Completo)](https://youtu.be/ELSm-G201Ls)*
+*[Curso de HTML5 y CSS3 desde CERO (Completo)](https://youtu.be/ELSm-G201Ls)*
 Duración: `24:01:03 H`
 
 
